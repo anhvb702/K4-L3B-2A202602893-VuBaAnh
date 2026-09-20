@@ -1,18 +1,16 @@
 ---
 doc_id: seller-warranty-policy
-title: Chính sách bảo hành dành cho người bán
-audience: seller               # buyer | seller | both
+title: Quy trình bảo hành và bảo trì sản phẩm
+audience: seller
 category: warranty-policy
 language: vi
-source_url: https://example.com/policy/seller-warranty
-retrieved_at: 2026-09-18
-document_version: "not-stated"
+source_url: https://seller-vn.tiktok.com/university/essay?knowledge_id=761396473562887&lang=vi-VN
+retrieved_at: 2026-09-20
+document_version: "17/08/2026"
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K4-L3B — thay `source_url`/`retrieved_at`/`document_version` bằng nguồn công khai thật trước khi dùng làm benchmark.
+# Quy trình bảo hành và bảo trì
 
-# Chính sách bảo hành dành cho người bán (dữ liệu khởi động)
+Người bán phải thực hiện bảo hành và bảo trì sản phẩm theo thông tin đã cung cấp và hiển thị khi niêm yết sản phẩm trên TikTok Shop.
 
-Người bán chịu trách nhiệm xử lý yêu cầu bảo hành trong một khoảng thời gian quy định, và có thể bị xử phạt nếu từ chối yêu cầu hợp lệ hoặc phản hồi trễ hạn.
-
-Nhóm cần bổ sung mốc thời gian phản hồi, mức phạt, và quy trình khiếu nại từ nguồn chính thức trước khi dùng làm benchmark.
+Khi sản phẩm có bảo hành hoặc bảo trì, người bán có trách nhiệm nhận sản phẩm và thực hiện dịch vụ theo chính sách cùng thời hạn đã niêm yết. Người mua có quyền khiếu nại hoặc khởi kiện nếu người bán từ chối bảo hành khi thời hạn vẫn còn.

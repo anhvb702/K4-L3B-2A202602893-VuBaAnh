@@ -1,18 +1,18 @@
 ---
 doc_id: return-refund-policy
-title: Chính sách đổi trả và hoàn tiền
-audience: buyer               # buyer | seller | both
-category: returns-policy
+title: Thời hạn trả hàng và hoàn tiền cho người mua
+audience: buyer
+category: after-sales
 language: vi
-source_url: https://example.com/policy/returns
-retrieved_at: 2026-09-18
-document_version: "not-stated"
+source_url: https://seller-vn.tiktok.com/university/essay?knowledge_id=2901402355762946&lang=vi-VN
+retrieved_at: 2026-09-20
+document_version: "18/07/2024"
 ---
 
-> Khối metadata phía trên là **template mẫu** cho K4-L3B (bắt buộc: `audience` + `source_url` + `retrieved_at` + `document_version`, cùng ít nhất một trường hữu ích khác như `category`). Thay bằng nguồn công khai thật của nhóm trước khi dùng làm benchmark.
+# Thời hạn trả hàng và hoàn tiền
 
-# Chính sách đổi trả và hoàn tiền (dữ liệu khởi động)
+Người mua có thể gửi yêu cầu trả hàng hoặc hoàn tiền trong vòng 15 ngày dương lịch sau khi trạng thái đơn hàng được cập nhật thành Đã giao hàng. Một số danh mục có ngoại lệ về thời hạn.
 
-Người mua có thể yêu cầu đổi trả trong một khoảng thời gian nhất định kể từ ngày nhận hàng, với điều kiện sản phẩm còn nguyên tem/nhãn và chưa qua sử dụng.
+Các lý do có thể yêu cầu gồm: không nhận được sản phẩm, sản phẩm không tuân thủ thỏa thuận, giao sai sản phẩm, sản phẩm thiếu hàng, bị lỗi hoặc không thể chấp nhận được.
 
-Nhóm cần bổ sung thời hạn cụ thể, điều kiện ngoại lệ (hàng giảm giá, hàng dễ hư hỏng) và quy trình hoàn tiền từ nguồn chính thức trước khi dùng làm benchmark.
+Nguồn: TikTok Shop, áp dụng tại Việt Nam.

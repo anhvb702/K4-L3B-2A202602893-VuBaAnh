@@ -1,0 +1,29 @@
+Benchmark corpus: data/ecommerce (5 documents, HeadingChunker 450, OpenAI text-embedding-3-small)
+
+Q1: Thời hạn người mua gửi yêu cầu trả hàng là bao lâu?
+  filter={'audience': 'buyer'}
+  return-refund-policy#0 score=0.7212
+  buyer-warranty-support#0 score=0.4153
+
+Q2: Người bán phải thực hiện bảo hành theo thông tin nào?
+  filter={'audience': 'seller'}
+  seller-warranty-listing#0 score=0.6944
+  refurbished-warranty#0 score=0.6404
+  seller-warranty-policy#0 score=0.6200
+
+Q3: TikTok hỗ trợ người mua khi người bán từ chối bảo hành thế nào?
+  filter={'audience': 'buyer'}
+  buyer-warranty-support#0 score=0.7891
+  return-refund-policy#0 score=0.5931
+
+Q4: Người bán cần khai báo thông tin bảo hành nào khi đăng sản phẩm?
+  filter={'audience': 'seller'}
+  seller-warranty-listing#0 score=0.7458
+  seller-warranty-policy#0 score=0.5760
+  refurbished-warranty#0 score=0.5729
+
+Q5: Có những hình thức bảo hành nào cho hàng đã qua sử dụng?
+  filter={'audience': 'seller'}
+  refurbished-warranty#0 score=0.6662
+  seller-warranty-policy#0 score=0.5648
+  seller-warranty-listing#0 score=0.5543
